@@ -1,0 +1,6 @@
+[package]
+name = "cons"
+version = "0.1.0"
+authors = ["Thayne McCombs <astrothayne@gmail.com>"]
+
+[dependencies]
